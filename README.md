@@ -5,5 +5,5 @@
 <ul>
   <li>Noções aprimoradas de atributos e métodos.</li>
   <li>Conhecimento mais aprofundado em polimorfismo, herança e encapsulamento.</li>
-  <li>Aprimoramento de habilidades anteriores.</li>
+  <li>Aprimoramento de habilidades adquiridas anteriormente.</li>
 </ul>
