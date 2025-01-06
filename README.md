@@ -3,7 +3,7 @@
 <p>Recentemente estava aprendendo POO, então esse é um registro dos meus estudos durante o recesso escolar.</p>
 <h2>Habilidades adquiridas:</h2>
 <ul>
-  <li>Noções de atributos e métodos.</li>
+  <li>Noções aprimoradas de atributos e métodos.</li>
   <li>Conhecimento mais aprofundado em polimorfismo, herança e encapsulamento.</li>
   <li>Aprimoramento de habilidades anteriores.</li>
 </ul>
